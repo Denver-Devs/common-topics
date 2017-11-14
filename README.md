@@ -24,5 +24,7 @@ Good reading/contributing!
 ```
 
 ### Index
+#### meetup
+[What meetup(s) should I go to?](./channels/meetup/what-meetup-should-i-go-to.md)
 #### topic-career-advice
-[contractor-c2h-employee](./channels/topic-career-advice/contractor-c2h-employee.md)
+[Contractor vs  C2H  vs Employee](./channels/topic-career-advice/contractor-c2h-employee.md)
