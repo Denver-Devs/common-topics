@@ -34,7 +34,7 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Denver Python Meetup](https://www.meetup.com/Denver-Python-Meetup/)
 
 ### Social / Networking
-- [Develop Denver](https://www.meetup.com/Develop-Happy-Hour/)
+- [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
 
 ### Platform
 - [Denver Amazon Web Services User Group](https://www.meetup.com/Denver-Amazon-Web-Services-Users-Group/)
