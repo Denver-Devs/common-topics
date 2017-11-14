@@ -1,4 +1,4 @@
-# What Meetup(s) Should I Go To?
+# What Meetup(s) Should I go to?
 
 *#meetup*
 
