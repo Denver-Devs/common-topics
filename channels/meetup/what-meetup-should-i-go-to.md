@@ -35,7 +35,6 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Rocky Mountain Blockchain](https://www.meetup.com/rmbchain/)
 - [Docker Denver](https://www.meetup.com/Docker-Denver/)
 
-
 ### Programming Language
 - [Denver Python Meetup](https://www.meetup.com/Denver-Python-Meetup/)
 
