@@ -69,11 +69,15 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 
 #### Tax Implications
 
-Rules of thumb! ![Thumbs up everbody!](https://raw.githubusercontent.com/Denver-Devs/emojis/master/the_goods/vaultboy_thumbsup.jpg)
+Rules of thumb
+
+> Double the hourly rate and add three zeroes for an annual salary equivalent. $50/hour -> $100k. Caveat: doesn’t include health insurance or time off.
+
+> Consider the invisible benefits of employment when considering contract work such as health care, paid time off, retirement matching etc...
 
 |Topic        | Contractor      | Contract-to-Hire | Employee    |    
 |:------------|:---------------:|:----------------:|:------------:
-|Take-Home Formula | {HourlyRate} * {Hours(2080)} * (1 - {Effective Tax Rate} - {Social Security} - {Medicare}) - OtherBenefits{Healthcare,Retirement,Etc...} | Depends on Income Stub below | {Salary} * (1 - {Effective Tax Rate}) - {Healthcare Premiums} - {Retirement Contributions} |
+|Take-Home Formula | {HourlyRate} * {Hours(2080)} * (1 - {Effective Tax Rate} - {Social Security Rate} - {Medicare Rate}) - OtherBenefits{Healthcare,Retirement,Etc...} | Depends on Income Stub below | {Salary} * (1 - {Effective Tax Rate}) - {Healthcare Premiums} - {Retirement Contributions} |
 |Tax Income Stub | 1099   | 1099 (if not hired during tax year) or W2 (if hired during tax year)   | W2  |
 | | | | |
 
