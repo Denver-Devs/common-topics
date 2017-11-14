@@ -13,7 +13,7 @@ This is not official tax guidance and should not be taken as such. The intent is
 It's my hope that this write up with present you with information that will help you make a decision about which types of employment will best suit your situation, needs and wants. With that said, we simply wont be able to cover every topic here that is sure to arise; please use discretion and find the option that works best for you with your own research.
 
 ## Content
-#### Definitions
+### Definitions
 
 *Contractor*
 
