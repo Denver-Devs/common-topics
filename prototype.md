@@ -1,10 +1,10 @@
-# Contractor vs C2H vs Employee
+# Title
 
 *#channel*
 
 ### Brief
 
-### Last updated:
+### Last updated: YYYY/MM/DD (the one and only true date format)
 
 ### Introduction
 
