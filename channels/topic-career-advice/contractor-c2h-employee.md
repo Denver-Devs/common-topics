@@ -27,8 +27,8 @@ Contract-to-Hire agreements outline a set length of time a contractor will work 
 
 *Full Time Employee*
 
-Employees who work the normal workweek (37.5 hours) and whose employment is not limited to a specific period of time or purpose. All regular full-time employees are eligible for all employment benefits provided by [Company Name] to its employees in general.
-[3](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
+Under the common-law test, an employee is a worker whose work process and work product are controlled by the employer.
+[3](https://www.bls.gov/opub/mlr/2002/01/art1full.pdf)
 
 ---
 
@@ -91,7 +91,7 @@ Rules of thumb
 #### Sources
 1. [Contractor Defined (Wikipedia)](https://en.wikipedia.org/wiki/Contractor)
 2. [C2H Defined (Random Blog)](http://blog.remedi.com/should-you-consider-a-contract-to-hire-c2h-position)
-3. [SHRM Employee Defined](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
+3. [Bureau of Labor Statistics Publication](https://www.bls.gov/opub/mlr/2002/01/art1full.pdf)
 4. [Employee improperly classified as Contractor](http://dpeaflcio.org/programs-publications/issue-fact-sheets/misclassification-of-employees-as-independent-contractors/)
 5. [Top 10 1099 tax deductions](https://payable.com/blog/1099-tax-deductions)
 6. [Law Independent Contractor vs Employee](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html)
