@@ -49,9 +49,12 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 ---
 - Contract-to-Hire
   - Pros
-    - Opportunity to "try out" the company
+    - Opportunity to "try out" the company.
+    - Many C2H opportunities which can give a diverse background.
   - Cons
-    - Difficulty in comparing the contract rate versus salary at hire point
+    - Difficulty in comparing the contract rate versus salary at hire point.
+    - Less emotional investment.
+    - Financial and Career risk if fit doesn't occur.
 ---
 - Employee
   - Pros
