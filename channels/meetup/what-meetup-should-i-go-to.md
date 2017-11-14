@@ -30,16 +30,20 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [React Denver](https://www.meetup.com/ReactJS-Denver/)
 - [Denver Vue.js Meetup](https://www.meetup.com/Denver-Vue-js-Meetup/)
 
+### Platform
+- [Denver Amazon Web Services User Group](https://www.meetup.com/Denver-Amazon-Web-Services-Users-Group/)
+- [Rocky Mountain Blockchain](https://www.meetup.com/rmbchain/)
+- [Docker Denver](https://www.meetup.com/Docker-Denver/)
+
+
 ### Programming Language
 - [Denver Python Meetup](https://www.meetup.com/Denver-Python-Meetup/)
 
 ### Social / Networking
 - [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
 
-### Platform
-- [Denver Amazon Web Services User Group](https://www.meetup.com/Denver-Amazon-Web-Services-Users-Group/)
-- [Rocky Mountain Blockchain](https://www.meetup.com/rmbchain/)
-- [Docker Denver](https://www.meetup.com/Docker-Denver/)
+### UX
+- [Denver UX](https://www.meetup.com/DenverUX/)
 
 ### Web Development
 - [Denver FullStack](https://www.meetup.com/fullstack/)
