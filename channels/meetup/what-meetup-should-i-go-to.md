@@ -47,6 +47,4 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [DenverScript](https://www.meetup.com/DenverScript/)
 
 ### Sources
-1. Everything from:
-  - Meetup.com
-  - Eventbrite
+1. Everything from meetup.com or somewhere else
