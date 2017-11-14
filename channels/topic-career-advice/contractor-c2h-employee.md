@@ -69,7 +69,7 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 
 #### Tax Implications
 
-Rules of thumb! [Thumbs up everbody!](https://github.com/Denver-Devs/emojis/blob/master/the_goods/vaultboy_thumbsup.jpg)
+Rules of thumb! [Thumbs up everbody!](https://raw.githubusercontent.com/Denver-Devs/emojis/master/the_goods/vaultboy_thumbsup.jpg)
 
 |Topic        | Contractor      | Contract-to-Hire | Employee    |    
 |:------------|:---------------:|:----------------:|:------------:
