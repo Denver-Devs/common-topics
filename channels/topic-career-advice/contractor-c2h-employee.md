@@ -36,12 +36,34 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 
 #### Pros-Cons
 
-|             | Contractor      | Contract-to-Hire | Employee    |    
-|------------:|:---------------:|:----------------:|:------------:
-| Pros |    |    |    |
-| Cons |    |    |    |
+- Contractor
+  - Pros
+    - Freedom. You decide when, where and how you work. If you cannot decide this, you may be improperly classified as a contractor when you are in fact an employee [4](http://dpeaflcio.org/programs-publications/issue-fact-sheets/misclassification-of-employees-as-independent-contractors/).
+    - Allowed additional itemized deductions when filing income taxes [5](https://payable.com/blog/1099-tax-deductions).
+    - You're paid for hours worked (no exempt pay in contracting!) and get that on your paycheck.
+    - You decide how and what to set aside for taxes.
+    - Generally retain rights for creation of intellectual property.
+  - Cons
+    - Additional administrative burden in keeping track of hours worked, business-related expenses for tax deductions, and tax payments that will need to be made (income tax, employment tax, etc...).
+    - Generally no benefits (health, retirement) packaged in term of contract work.
+    - Pay an additional 7.65% of employment taxes (FICA) that would otherwise be paid by the employer.
+    - Consistently sell new work.
+- Contract-to-Hire
+  - Pros
+    - Opportunity to "try out" the company
+  - Cons
+    - Difficulty in comparing the contract rate versus salary at hire point
+- Employee
+  - Pros
+    - Only pay employee portion of FICA, Medicare.
+    - Easier to obtain benefits via company than as an independent contractor (often better/cheaper too).
+    - Expectation of consistent work, as opposed to having to find your own as a contractor.
+  - Cons
+    - Your employer controls what you do, how you do it, and when you do it.
+    - Cannot deduct reimbursed business expenses on tax returns.
+    - Intellectual property created is generally property of the employer.
 
-[4](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [5](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
+[5](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [6](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
 
 #### Tax Implications
 
@@ -52,7 +74,7 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 |Deductions  |    |    |    |
 |Credits |    |    |    |
 
-[6](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
+[7](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
 
 #### Examples
 
@@ -60,6 +82,8 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 1. [Contractor Defined (Wikipedia)](https://en.wikipedia.org/wiki/Contractor)
 2. [C2H Defined (Random Blog)](http://blog.remedi.com/should-you-consider-a-contract-to-hire-c2h-position)
 3. [SHRM Employee Defined](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
-4. [Law Independent Contractor vs Employee](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html)
-5. [Should I be a Contractor or Empoyee?](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
-6. [IRS Independent Contractor or Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
+4. [Employee improperly classified as Contractor](http://dpeaflcio.org/programs-publications/issue-fact-sheets/misclassification-of-employees-as-independent-contractors/)
+5. [Top 10 1099 tax deductions](https://payable.com/blog/1099-tax-deductions)
+6. [Law Independent Contractor vs Employee](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html)
+7. [Should I be a Contractor or Empoyee?](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
+8. [IRS Independent Contractor or Employee](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
