@@ -34,20 +34,24 @@ Other Names: Referred to as Direct Hire by recruiters, or W2
 Employees who work the normal workweek (37.5 hours) and whose employment is not limited to a specific period of time or purpose. All regular full-time employees are eligible for all employment benefits provided by [Company Name] to its employees in general.
 [3](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
 
+---
+
 #### Pros-Cons
 
 - Contractor
   - Pros
-    - Freedom. You decide when, where and how you work. If you cannot decide this, you may be improperly classified as a contractor when you are in fact an employee [4](http://dpeaflcio.org/programs-publications/issue-fact-sheets/misclassification-of-employees-as-independent-contractors/).
-    - Allowed additional itemized deductions when filing income taxes [5](https://payable.com/blog/1099-tax-deductions).
+    - Freedom. You decide when, where and how you work. If you cannot decide this, you may be improperly classified as a contractor when you are in fact an employee. [4](http://dpeaflcio.org/programs-publications/issue-fact-sheets/misclassification-of-employees-as-independent-contractors/)
+    - Allowed additional itemized deductions when filing income taxes. [5](https://payable.com/blog/1099-tax-deductions)
     - You're paid for hours worked (no exempt pay in contracting!) and get that on your paycheck.
     - You decide how and what to set aside for taxes.
     - Generally retain rights for creation of intellectual property.
+---
   - Cons
     - Additional administrative burden in keeping track of hours worked, business-related expenses for tax deductions, and tax payments that will need to be made (income tax, employment tax, etc...).
     - Generally no benefits (health, retirement) packaged in term of contract work.
     - Pay an additional 7.65% of employment taxes (FICA) that would otherwise be paid by the employer.
     - Consistently sell new work.
+---
 - Contract-to-Hire
   - Pros
     - Opportunity to "try out" the company
@@ -65,14 +69,14 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 
 [5](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [6](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
 
+---
+
 #### Tax Implications
 
 |Topic        | Contractor      | Contract-to-Hire | Employee    |    
 |:------------|:---------------:|:----------------:|:------------:
-|Tax Formula?  |    |    |    |
-|Tax Form |    |    |    |
-|Deductions  |    |    |    |
-|Credits |    |    |    |
+|Take-Home Formula | {HourlyRate} * {Hours(2080)} * (1 - {Effective Tax Rate} - {Social Security} - {Medicare}) - OtherBenefits{Healthcare,Retirement,Etc...} | Depends on Income Stub below | {Salary} * (1 - {Effective Tax Rate}) - {Healthcare Premiums} - {Retirement Contributions} |
+|Tax Income Stub | 1099   | 1099 (if not hired during tax year) or W2 (if hired during tax year)   | W2  |
 
 [7](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
 
