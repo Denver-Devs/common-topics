@@ -45,7 +45,6 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
     - You're paid for hours worked (no exempt pay in contracting!) and get that on your paycheck.
     - You decide how and what to set aside for taxes.
     - Generally retain rights for creation of intellectual property.
----
   - Cons
     - Additional administrative burden in keeping track of hours worked, business-related expenses for tax deductions, and tax payments that will need to be made (income tax, employment tax, etc...).
     - Generally no benefits (health, retirement) packaged in term of contract work.
@@ -57,6 +56,7 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
     - Opportunity to "try out" the company
   - Cons
     - Difficulty in comparing the contract rate versus salary at hire point
+---
 - Employee
   - Pros
     - Only pay employee portion of FICA, Medicare.
@@ -67,7 +67,7 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
     - Cannot deduct reimbursed business expenses on tax returns.
     - Intellectual property created is generally property of the employer.
 
-[5](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [6](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
+[6](http://employment.findlaw.com/hiring-process/being-an-independent-contractor-vs-employee.html) [7](https://www.forbes.com/sites/steveparrish/2013/12/16/should-i-be-an-employee-or-an-independent-contractor/#3bccca06138c)
 
 ---
 
@@ -77,8 +77,9 @@ Employees who work the normal workweek (37.5 hours) and whose employment is not 
 |:------------|:---------------:|:----------------:|:------------:
 |Take-Home Formula | {HourlyRate} * {Hours(2080)} * (1 - {Effective Tax Rate} - {Social Security} - {Medicare}) - OtherBenefits{Healthcare,Retirement,Etc...} | Depends on Income Stub below | {Salary} * (1 - {Effective Tax Rate}) - {Healthcare Premiums} - {Retirement Contributions} |
 |Tax Income Stub | 1099   | 1099 (if not hired during tax year) or W2 (if hired during tax year)   | W2  |
+| | | | |
 
-[7](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
+[8](https://www.irs.gov/businesses/small-businesses-self-employed/independent-contractor-self-employed-or-employee)
 
 #### Examples
 
