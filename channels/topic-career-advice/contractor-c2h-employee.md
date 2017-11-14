@@ -18,19 +18,16 @@ It's my hope that this write up with present you with information that will help
 *Contractor*
 
 A contractor is a person or company that performs work on a contract basis.
-
 [1](https://en.wikipedia.org/wiki/Contractor)
 
 *Contract to Hire*
 
 Contract-to-Hire agreements outline a set length of time a contractor will work for the employer. At the end of that set period, the employer decides if the contractor will be hired as a permanent employee or dismiss the contractor.
-
 [2](http://blog.remedi.com/should-you-consider-a-contract-to-hire-c2h-position)
 
 *Full Time Employee*
 
 Employees who work the normal workweek (37.5 hours) and whose employment is not limited to a specific period of time or purpose. All regular full-time employees are eligible for all employment benefits provided by [Company Name] to its employees in general.
-
 [3](https://webcache.googleusercontent.com/search?q=cache:04BL6o9QKekJ:https://www.shrm.org/resourcesandtools/tools-and-samples/policies/pages/definitionofemployee.aspx+&cd=12&hl=en&ct=clnk&gl=us)
 
 ---
