@@ -46,7 +46,7 @@ If you have any suggestions about what you think should be standard on a resume,
 
 - Education
     - This may or may not be relevant depending on where you're at in your career.
-    
+
 - Interests
     - Only do this if you're interesting. If you're not, leave it out... like I do...
 
@@ -66,4 +66,5 @@ If you have any suggestions about what you think should be standard on a resume,
 
 ### Sources
 The links are self-documenting, just like my code.
+
 Concerned community members.
