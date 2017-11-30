@@ -27,13 +27,15 @@ I hear Dan Hannigan is hiring.
 ---
 
 ### Strategies
+There are some general strategies you can generally employ for finding employment at any level and in any industry. Further sections will attempt to make experience/education-based and technical-expertise-based. Let's go over some general strategies for finding work.
+
 #### By Education/Experience
 ##### Bootcamp Grads
 ##### College Grads
 ##### Juniors
 ##### Mids
 ##### Seniors
-#### By Specialty
+#### By Technical Expertise
 ##### Back-end
 ##### Front-end
 ##### Full-Stack
