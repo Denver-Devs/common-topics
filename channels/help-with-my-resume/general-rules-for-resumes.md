@@ -25,22 +25,28 @@ If you have any suggestions about what you think should be standard on a resume,
 - General Rules
     - Make the resume fit either one full page, or two full pages. None of that 1 and 1/3 pages crap, it hurts my eyes. Dont do it.
 
-- Have a header with header-related information
+- Header
     - Name
     - City/State
     - Phone/Email
     - Sites [GitHub, LinkedIn, Personal Site, Portfolio Site]
-- Have a concise summary
-    - Summarize how your experience connects you to what you're applying for
+
+- Summary
+    - Concisely summarize how your experience connects you to what you're applying for
+
 - Skills
     - If you're going for a skills-based approach, include a matrix/table/list... thing... of some sort that isn't ugly and clearly defines your *relevant* skills.
+
 - Projects
     - You can include some projects here if you like; however this tends to bloat resumes.. so be prepared to make your resume a full two pages if you're going to do this.
+
 - Experience
     - List all the jobs you've had and left because you had a self-loathing that you attributed to your work but you couldn't just look in the mirror and fix your alcoholism.
     - Don't forget to describe actionably how it's impressive and relevant to the applied for job.
+
 - Education
     - This may or may not be relevant depending on where you're at in your career.
+    
 - Interests
     - Only do this if you're interesting. If you're not, leave it out... like I do...
 
