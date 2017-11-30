@@ -17,7 +17,7 @@ If you have any suggestions about what you think should be standard on a resume,
 - [Dev Bootcamp - How To Perfect Your Tech Industry Resume](https://devbootcamp.com/blog/tech-industry-resume)
 - [10 Resume Tips for Technology Professionals](http://mashable.com/2012/04/01/tech-resume-tip/#w7Iu9IErgPqY)
 
-#### Dont Do this unless you know what you're doing
+#### Dont Do this unless you know what you're doing (you probably don't know what you're doing)
 - [Best Techie Resumes](http://www.businessinsider.com/best-tech-resumes-2013-11?op=1/#qr-code-on-the-back-of-victor-petits-resume-launched-a-video-of-his-lips-to-place-onto-the-photo-9)
 
 ### TL;DR, who reads now days anyways?
@@ -54,6 +54,8 @@ If you have any suggestions about what you think should be standard on a resume,
 - White Space is Happy Space
 - Export to PDF for submission
 
+---
 
 ### Sources
 The links are self-documenting, just like my code.
+Concerned community members.
