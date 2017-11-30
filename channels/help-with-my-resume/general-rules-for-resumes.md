@@ -9,6 +9,7 @@ Basic list of recurring recommendations made by Denver-Devs community members co
 
 ### Introduction
 When in-person networking and job searching isn't possible or you want to extend your network further and your resume is the first impression a potential employer might have of you, you want it to be good. Here we're going to enumerate some good resources for resume-building and also some recurring recommendations made by Denver-Devs community members.
+
 If you have any suggestions about what you think should be standard on a resume, please DM me @abelgoodwin or PR here.
 
 ## Content
