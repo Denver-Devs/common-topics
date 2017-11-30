@@ -13,14 +13,14 @@ If you have any suggestions about what you think should be standard on a resume,
 
 ## Content
 
-#### Here are some decent and concise resources for forming a resume
+### Here are some decent and concise resources for forming a resume
 - [Dev Bootcamp - How To Perfect Your Tech Industry Resume](https://devbootcamp.com/blog/tech-industry-resume)
 - [10 Resume Tips for Technology Professionals](http://mashable.com/2012/04/01/tech-resume-tip/#w7Iu9IErgPqY)
 
 #### Dont Do this unless you know what you're doing
 - [Best Techie Resumes](http://www.businessinsider.com/best-tech-resumes-2013-11?op=1/#qr-code-on-the-back-of-victor-petits-resume-launched-a-video-of-his-lips-to-place-onto-the-photo-9)
 
-#### TL;DR, who reads now days anyways?
+### TL;DR, who reads now days anyways?
 - General Rules
     - Make the resume fit either one full page, or two full pages. None of that 1 and 1/3 pages crap, it hurts my eyes. Dont do it.
 
@@ -41,6 +41,18 @@ If you have any suggestions about what you think should be standard on a resume,
     - This may or may not be relevant depending on where you're at in your career.
 - Interests
     - Only do this if you're interesting. If you're not, leave it out... like I do...
+
+---
+
+### Recurring Recommendations by Community Members
+
+- Dont put your picture on your resume
+- Place contact info at the top
+- Consider your visual hierarchy
+- Clear visual noise
+- Use a non-standard font
+- White Space is Happy Space
+- Export to PDF for submission
 
 
 ### Sources
