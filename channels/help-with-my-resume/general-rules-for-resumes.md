@@ -32,7 +32,8 @@ If you have any suggestions about what you think should be standard on a resume,
     - Sites [GitHub, LinkedIn, Personal Site, Portfolio Site]
 - Have a concise summary
     - Summarize how your experience connects you to what you're applying for
-- If you're going for a skills-based approach, include a matrix/table/list... thing... of some sort that isn't ugly and clearly defines your *relevant* skills.
+- Skills
+    -If you're going for a skills-based approach, include a matrix/table/list... thing... of some sort that isn't ugly and clearly defines your *relevant* skills.
 - Projects
     - You can include some projects here if you like; however this tends to bloat resumes.. so be prepared to make your resume a full two pages if you're going to do this.
 - Experience
