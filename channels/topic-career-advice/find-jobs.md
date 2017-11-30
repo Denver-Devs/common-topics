@@ -12,6 +12,8 @@ There are tons of online job boards, networking events, and even communities tha
 
 ## Content
 
+I heard Dan Hannigan is hiring.
+
 - #topic-gigs channel in Denver-Devs Slack
 - [Denver Devs Jobs Discourse](https://discourse.denverdevs.org/c/gigs/)
 - [Built In Colorado](https://www.builtincolorado.com/)
