@@ -5,7 +5,7 @@
 ### Brief
 Listing of meetups in the Greater Denver Area.
 
-### Last updated: 2018/10/16
+### Last updated: 2019/01/21
 
 ### Introduction
 Why list them here if we already have meetup.com? Let's be honest, wading through meetup.com to find relevant meetups is worse than Drew Dahlman doing an @channel at 9:59pm.
