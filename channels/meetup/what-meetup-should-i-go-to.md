@@ -5,7 +5,7 @@
 ### Brief
 Listing of meetups in the Greater Denver Area.
 
-### Last updated: 2019/01/21
+### Last updated: 2019/01/22
 
 ### Introduction
 Why list them here if we already have meetup.com? Let's be honest, wading through meetup.com to find relevant meetups is worse than Drew Dahlman doing an @channel at 9:59pm.
@@ -18,13 +18,21 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [GraphQL Denver/Boulder](https://www.meetup.com/GraphQL-Denver-Boulder-Meetup/)
 
 ### Blockchain & Cryptocurrency
+- [aeternity Blockchain 3.0 for the World](https://www.meetup.com/aeternity-Blockchain-3-0-for-the-World/)
 - [Bitcoin Cash - Denver](https://www.meetup.com/Bitcoin-Cash-Denver/)
+- [Blockchain Developers United Denver](https://www.meetup.com/Blockchain-Developers-United-Denver/)
+- [Blockchain for Sustainable Development](https://www.meetup.com/Blockchain-for-Sustainable-Development/)
+- [Boulder Bitcoin Meetup](https://www.meetup.com/Boulder-Bitcoin-Meetup/)
 - [Boulder Blockchain Meetup](https://www.meetup.com/Boulder-Blockchain/)
+- [Boulder Valley Bitcoin Meetup](https://www.meetup.com/Boulder-Valley-Bitcoin-Meetup/)
 - [Cardano Boulder](https://www.meetup.com/Cardano-Boulder/)
 - [CU Blockchain](https://www.meetup.com/CU-Blockchain/)
 - [CryptoMondays Denver](https://www.meetup.com/meetup-group-REedNOLB)
 - [Decentralize Colorado](https://www.meetup.com/Decentralize-Colorado/)
 - [Denver Blockchain](https://www.meetup.com/Denver-Blockchain/)
+- [Denver Crypto Group](https://www.meetup.com/Denver-Crypto-Group/)
+- [Denver CryptoParty](https://www.meetup.com/Denver-CryptoPARTY/)
+- [Denver Solana Blockchain Developer Meetup](https://www.meetup.com/Denver-Solana-Blockchain-Developer-Meetup/)
 - [Denver ThunderCore - Blockchain Developer Meetup](https://www.meetup.com/meetup-group-pRoDarQT/)
 - [Denver Zcash Meetup](https://www.meetup.com/Denver-Zcash-Meetup/)
 - [Ethereum Boulder](https://www.meetup.com/Ethereum-Boulder/)
@@ -43,6 +51,7 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [PyData Denver](https://www.meetup.com/PyData-Denver/)
 
 ### Dev Ops
+- [Boulder Software Testing & QA](https://www.meetup.com/Boulder-Software-Testing-and-QA-meetup/)
 - [Denver CoffeeOps](https://www.meetup.com/Denver-CoffeeOps/)
 - [Denver Jenkins Area Meetup](https://www.meetup.com/Denver-Jenkins-Area-Meetup/)
 - [DevOps Boulder](https://www.meetup.com/DevOps-Boulder/)
@@ -67,14 +76,18 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Denver Amazon Web Services User Group](https://www.meetup.com/Denver-Amazon-Web-Services-Users-Group/)
 - [Denver Kubernetes Meetup](https://www.meetup.com/Denver-Kubernetes-Meetup/)
 - [Docker Denver](https://www.meetup.com/Docker-Denver/)
+- [Denver Microservices](https://www.meetup.com/DenverMicroservices/)
 - [Kubernetes Colorado](https://www.meetup.com/Kubernetes-Colorado/)
+- [The Denver .NET Meetup Group](https://www.meetup.com/dotnet-109/)
 
 ### Programming Language
 - [Boulder Gophers](https://www.meetup.com/Boulder-Gophers/)
+- [Boulder Elixir](https://www.meetup.com/boulder-elixir/)
 - [Boulder Haskell Programmers](https://www.meetup.com/Boulder-Haskell-Programmers/)
 - [Boulder JS](https://www.meetup.com/Boulder-JS/)
 - [Boulder Python](https://www.meetup.com/BoulderPython/)
 - [Boulder Ruby Group](https://www.meetup.com/boulder_ruby_group/)
+- [Denver.rb](https://www.meetup.com/Denver-rb/)
 - [DenverPHP](https://www.meetup.com/DenverPHP/)
 - [Denver Erlang and Elixir](https://www.meetup.com/Denver-Erlang-Elixir/)
 - [Denver Java Users Group](https://www.meetup.com/DenverJavaUsersGroup/)
@@ -90,10 +103,15 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Ask a Dev Denver](https://www.meetup.com/Ask-a-Dev-Denver/)
 - [Bootcampers Collective <> Co-op for Jr. Devs](https://www.meetup.com/Bootcampers-Collective/)
 - [Boulder Hack Night](https://www.meetup.com/Boulder-Hack-Night/)
+- [Built in Colorado](https://www.meetup.com/Built-In-Colorado/)
+- [Code for Boulder](https://www.meetup.com/CodeForBoulder/)
+- [Code for Denver](https://www.meetup.com/CodeForDenver/)
 - [Develop Denver](https://www.meetup.com/Develop-Denver/)
 - [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
+- [Denver Tech Interview Meetup](https://www.meetup.com/Denver-Tech-Interview-Meetup/)
 - [Free Code Camp - Boulder Study Group](https://www.meetup.com/freeCodeCamp-Boulder/)
 - [Girl Develop It Boulder/Denver](https://www.meetup.com/Girl-Develop-It-Boulder-Denver/)
+- [Meet n Code](https://www.meetup.com/Meet-n-Code/)
 - [Refresh Denver](https://www.meetup.com/refreshdenver/)
 
 ### UI/UX and Content Design/Strategy
