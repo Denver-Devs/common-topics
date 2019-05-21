@@ -73,10 +73,13 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 ### Platform
 - [AWS Greater Denver](https://www.meetup.com/AWS-Boulder-Denver/)
 - [Boulder .NET User Group](https://www.meetup.com/Boulder-NET-User-Group)
+- [Boulder WordPress Meetup](https://www.meetup.com/BoulderWP/)
+- [Boulder/Denver WordPress Builders](https://www.meetup.com/BDWPBuilders/)
 - [Denver Amazon Web Services User Group](https://www.meetup.com/Denver-Amazon-Web-Services-Users-Group/)
 - [Denver Kubernetes Meetup](https://www.meetup.com/Denver-Kubernetes-Meetup/)
 - [Docker Denver](https://www.meetup.com/Docker-Denver/)
 - [Denver Microservices](https://www.meetup.com/DenverMicroservices/)
+- [Denver WordPress Meetup](https://www.meetup.com/DenverWordPress/)
 - [Kubernetes Colorado](https://www.meetup.com/Kubernetes-Colorado/)
 - [The Denver .NET Meetup Group](https://www.meetup.com/dotnet-109/)
 
