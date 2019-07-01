@@ -5,4 +5,6 @@
 
 | Name | Location | Description |
 |:-|:-|:---|
-|Union Station|Downtown|Train Station waiting hub; small restaurances cafes in-building.
+|Union Station|Downtown|Train Station waiting hub; small restaurances cafes in-building.|
+|Bardo|Wheatridge||
+|Improper City|RiNo||
