@@ -20,7 +20,6 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 
 ### Back End
 - [Boulder SQL](https://www.meetup.com/BoulderSql/)
-- [Colorado Cassandra Meetup](https://www.meetup.com/Colorado-Cassandra-Meetup/)
 - [Denver MongoDB User Group](https://www.meetup.com/boulder-denver-mongo/)
 - [Denver Postgres](https://www.meetup.com/Denver-Postgres/)
 - [Denver Redis Meetup](https://www.meetup.com/Denver-Redis/)
@@ -161,7 +160,6 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Boulder Python](https://www.meetup.com/BoulderPython/)
 - [Boulder Ruby Group](https://www.meetup.com/boulder_ruby_group/)
 - [Denver.rb](https://www.meetup.com/Denver-rb/)
-- [DenverPHP](https://www.meetup.com/DenverPHP/)
 - [Denver Erlang and Elixir](https://www.meetup.com/Denver-Erlang-Elixir/)
 - [Denver Java Users Group](https://www.meetup.com/DenverJavaUsersGroup/)
 - [Denver JavaScript Meetup](https://www.meetup.com/meetup-group-KHpdnFBx/)
