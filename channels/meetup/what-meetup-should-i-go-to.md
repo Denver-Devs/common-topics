@@ -5,7 +5,7 @@
 ### Brief
 Listing of meetups in the Greater Denver Area.
 
-### Last updated: 2019/10/01
+### Last updated: 2019/10/12
 
 ### Introduction
 Why list them here if we already have meetup.com? Let's be honest, wading through meetup.com to find relevant meetups is worse than Drew Dahlman doing an @channel at 9:59pm.
@@ -15,6 +15,7 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 ### AI & Machine Learning
 
 - [Denver AI Developers Group](https://www.meetup.com/aittg-denver/)
+- [Uber Engineering Events- Louisville](https://www.meetup.com/Uber-Engineering-Events-Louisville/)
 - [Women in Robotics Boulder/Denver](https://www.meetup.com/Women-in-Robotics-Boulder-Denver/)
 
 ### Back End
@@ -24,9 +25,11 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Denver Postgres](https://www.meetup.com/Denver-Postgres/)
 - [Denver Redis Meetup](https://www.meetup.com/Denver-Redis/)
 - [GraphQL Denver](https://www.meetup.com/graphql-denver/)
+- [RMOUG Meetup](https://www.meetup.com/RMOUG-Meetup/)
 - [The Denver Linux, Apache, MySQL and PHP (LAMP) Meetup Group](https://www.meetup.com/denverlamp/)
 
 ### Blockchain & Cryptocurrency
+- [Bitcoin & Beer](https://www.meetup.com/Bitcoin-and-Beer/)
 - [Bitcoin Cash - Denver](https://www.meetup.com/Bitcoin-Cash-Denver/)
 - [Blockchain Developers United Denver](https://www.meetup.com/Blockchain-Developers-United-Denver/)
 - [Blockchain for Sustainable Development](https://www.meetup.com/Blockchain-for-Sustainable-Development/)
@@ -34,6 +37,7 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Boulder Blockchain Meetup](https://www.meetup.com/Boulder-Blockchain/)
 - [Boulder Valley Bitcoin Meetup](https://www.meetup.com/Boulder-Valley-Bitcoin-Meetup/)
 - [Cardano Boulder](https://www.meetup.com/Cardano-Boulder/)
+- [Colorado Springs Blockchain Meetup](https://www.meetup.com/Colorado-Springs-Blockchain-Meetup/)
 - [CU Blockchain](https://www.meetup.com/CU-Blockchain/)
 - [CryptoMondays Denver](https://www.meetup.com/meetup-group-REedNOLB)
 - [Dash Colorado](https://www.meetup.com/Dash-Colorado/)
@@ -94,6 +98,9 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Agile Boulder](https://www.meetup.com/Agile-Boulder/)
 - [Agile Denver](https://www.meetup.com/Agile-Denver2/)
 - [Agile Denver-North](https://www.meetup.com/Agile-Denver-North/)
+- [Agile Tech Network](https://www.meetup.com/AgileTechNetwork/)
+- [Boulder Code Quality](https://www.meetup.com/Boulder-Code-Quality/)
+- [Colorado IT as Code Group](https://www.meetup.com/Colorado-IT-as-Code-Group/)
 - [DDD Denver](https://www.meetup.com/ddd-denver/)
 - [Denver Indie Hackers](https://www.meetup.com/DenverIndieHackers/)
 - [Denver Microservices](https://www.meetup.com/DenverMicroservices/)
@@ -107,12 +114,14 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [AWS Denver](https://www.meetup.com/AWS-Denver/)
 - [AWS Greater Denver](https://www.meetup.com/AWS-Boulder-Denver/)
 - [Denver Amazon Web Services User Group](https://www.meetup.com/Denver-Amazon-Web-Services-Users-Group/)
+- [NoCo Amazon Web Services Meetup](https://www.meetup.com/NoCo-Amazon-Web-Services-Meetup/)
 
-### Platform - Apple/iOS
+### Platform - Apple (iOS/macOS)
 - [Cocoaheads Denver](https://www.meetup.com/CocoaheadsDenver/)
 
 ### Platform - Google
 - [Denver Kubernetes Meetup](https://www.meetup.com/Denver-Kubernetes-Meetup/)
+- [GDG (Google Developer Group) Cloud Denver](https://www.meetup.com/gdg-cloud-denver/)
 - [Google Developer Group (GDG) Denver](https://www.meetup.com/GDG-Denver/)
 - [Google Developer Group Boulder](https://www.meetup.com/Google-Developer-Group-Boulder/)
 - [Kubernetes Colorado](https://www.meetup.com/Kubernetes-Colorado/)
@@ -134,6 +143,8 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Denver WordPress Meetup](https://www.meetup.com/DenverWordPress/)
 
 ### Platform - Misc
+- [Boulder Cloud Lunch Meetup](https://www.meetup.com/Boulder-Cloud-Lunch-Meetup/)
+- [Boulder Linux Users Group (BLUG)](https://www.meetup.com/Boulder-Linux-Users-Group-BLUG/)
 - [Colorado Cloud Foundry Meetup](https://www.meetup.com/Colorado-Cloud-Foundry-Meetup/)
 - [Denver MuleSoft Meetup Group](https://www.meetup.com/Denver-MuleSoft-Meetup-Group/)
 - [Denver Salesforce Developer Group](https://www.meetup.com/Denver-Salesforce-Platform-Developer-User-Group/)
@@ -165,6 +176,7 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [NoCo JavaScript Meetup](https://www.meetup.com/NoCo-JavaScript-Meetup/)
 - [North Denver Metro C++ Meetup](https://www.meetup.com/North-Denver-Metro-C-Meetup/)
 - [Rust Boulder/Denver](https://www.meetup.com/Rust-Boulder-Denver/)
+- [Something about Python](https://www.meetup.com/Something-about-Python-Meetup/)
 
 ### Social / Networking / Community
 - [Ask a Dev Denver](https://www.meetup.com/Ask-a-Dev-Denver/)
@@ -176,12 +188,15 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Co\<div> (Colorado Diversity in Tech)](https://www.meetup.com/colorado-diversity-in-tech/)
 - [Code for Boulder](https://www.meetup.com/CodeForBoulder/)
 - [Code for Denver](https://www.meetup.com/CodeForDenver/)
+- [CyberGRX - Denver Technology Networking](https://www.meetup.com/CyberGRX-Denver-Technology-Networking/)
+- [denhac - The Denver Hackerspace](https://www.meetup.com/denhac-hackerspace/)
 - [Denver Women in Tech (DWIT)](https://www.meetup.com/Denver-Women-in-Tech/)
 - [Develop Denver](https://www.meetup.com/Develop-Denver/)
 - [Develop Happy Hour](https://www.meetup.com/Develop-Happy-Hour/)
 - [Denver Code Club](https://www.meetup.com/Denver-Code-Club/)
 - [Denver Hack Nite](https://www.meetup.com/Denver-Hack-Nite/)
 - [Denver Hacktoberfest](https://www.meetup.com/Denver-Hacktoberfest/)
+- [Denver Public Library Tech & Maker Programs](https://www.meetup.com/dplmeetup/)
 - [Denver Tech Interview Meetup](https://www.meetup.com/Denver-Tech-Interview-Meetup/)
 - [Flatiron School Denver Coding Community](https://www.meetup.com/Flatiron-School-Denver-Coding-Community/)
 - [Fort Collins Coders](https://www.meetup.com/Fort-Collins-Coders/)
@@ -192,29 +207,41 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [LadyCoders](https://www.meetup.com/equili/)
 - [Meet n Code](https://www.meetup.com/Meet-n-Code/)
 - [Refresh Denver](https://www.meetup.com/refreshdenver/)
+- [Tech Confluence](https://www.meetup.com/TechConfluence/)
 - [Tech Talks @ FWI](https://www.meetup.com/Tech-Talks-FWI/)
 - [Turing Community Events](https://www.meetup.com/Turing-Community-Events/)
 - [Women In Tech - Denver](https://www.meetup.com/Women-in-Tech-Denver/)
 - [Women Who Code Boulder/Denver](https://www.meetup.com/Women-Who-Code-Boulder-Denver/)
 
 ### UI/UX and Content Design/Strategy
+- [Boulder Digital Arts (BDA)](https://www.meetup.com/BoulderDigitalArts/)
 - [Boulder UI/UX](https://www.meetup.com/Boulder-UI-UX-Group/)
 - [Boulder/Longmont UX Research](https://www.meetup.com/Boulder-Longmont-UX-Research-Meetup/)
+- [Denver Content Strategy Meetup](https://www.meetup.com/Denver-Content-Strategy-Meetup/)
 - [Denver Tech & Design Community](https://www.meetup.com/Denver-Tech-Design-Community/)
 - [Denver UX](https://www.meetup.com/DenverUX/)
+- [Denver UX Newbies](https://www.meetup.com/Denver-UX-Newbies/)
+- [NUXers - A Group for Those New to UX Design](https://www.meetup.com/NUXers-A-Group-for-Those-New-to-UX-Design/)
 - [Sprint UX Podcast](https://www.meetup.com/sprint-ux-podcast/)
 - [Write the Docs Boulder/Denver](https://www.meetup.com/Write-the-Docs-Boulder-Denver/)
 
 ### Web Development
 - [Boulder Web Dev](https://www.meetup.com/boulder-web-dev/)
+- [Coding for the Web](https://www.meetup.com/Coding-for-the-Web/)
 - [DenverScript](https://www.meetup.com/DenverScript/)
+- [Denver Modern Web](https://www.meetup.com/Denver-Modern-Web/)
 - [Fort Collins Internet Pros (FCIP)](https://www.meetup.com/goFCIP/)
 - [Full Stack](https://www.meetup.com/fullstack/)
 - [Full Stack Boulder](https://www.meetup.com/Full-Stack-Boulder/)
 - [JAMstack Denver](https://www.meetup.com/JAMstack-Denver/)
+- [Learn to Code Colorado](https://www.meetup.com/learn-to-code-colorado/)
 - [Learn To Code Front Range](https://www.meetup.com/Learn-To-Code-Front-Range/)
 - [Node.js Denver/Boulder/Ft. Collins](https://www.meetup.com/Node-js-Denver-Boulder/)
 - [The Tech Academy Denver](https://www.meetup.com/The-Tech-Academy-Denver/)
+
+### Job Search / Interviewing / Networking
+- [#inspired5280 Meetup - Connect & Build a Strong Network](https://www.meetup.com/inspired5280-Meetup-connect-build-a-strong-network/)
+- [Brown Bag Job Search Group](https://www.meetup.com/Brown-Bag-Job-Search-Group/)
 
 ### Sources
 1. Everything from meetup.com or somewhere else
