@@ -1,4 +1,4 @@
-# What Meetup(s) Should I go to?
+
 
 *#meetup*
 
@@ -201,6 +201,7 @@ Why list them here if we already have meetup.com? Let's be honest, wading throug
 - [Flatiron School Denver Coding Community](https://www.meetup.com/Flatiron-School-Denver-Coding-Community/)
 - [Fort Collins Coders](https://www.meetup.com/Fort-Collins-Coders/)
 - [Free Code Camp - Boulder Study Group](https://www.meetup.com/freeCodeCamp-Boulder/)
+- [Front Range Freelancers Are Better Together](https://www.meetup.com/Freelancer-are-better-together/)
 - [Girl Develop It Boulder/Denver](https://www.meetup.com/Girl-Develop-It-Boulder-Denver/)
 - [Hispanics and Technology](https://www.meetup.com/Hispanics-and-Technology/)
 - [IT for Non-Traditional Learners (North Denver)](https://www.meetup.com/it-ntl/)
